@@ -19,6 +19,46 @@ Each vendor can **only access and manage their own products**.
 Authentication is implemented using **Token Authentication**.
 
 ---
+# Application Screenshots
+
+## Register Page
+
+Vendor registration page.
+
+![Register Page](screenshots/register.png)
+
+---
+
+## Login Page
+
+Vendor login page.
+
+![Login Page](screenshots/login.png)
+
+---
+
+## Dashboard Page
+
+After login, vendor can view and manage products.
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## Add Product Page
+
+Vendor can create new products.
+
+![Add Product](screenshots/add-product.png)
+
+---
+
+## Edit Product Page
+
+Vendor can update product details.
+
+![Edit Product](screenshots/edit-product.png)
+
 
 # 2. Technology Stack
 
